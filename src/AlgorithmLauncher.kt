@@ -5,9 +5,9 @@ import template.WriteReturnTypeWhenYouNeeded
  * IntelliJではこれをRun
  */
 fun main() {
-    /* 今すぐ問題に回答するためにテストするものはこれを呼び出す。
-    "cmd" + "/"でコメントパウとを活性/非活性 */
-    println("${Solution().solution()}")
+//    /* 今すぐ問題に回答するためにテストするものはこれを呼び出す。
+//    "cmd" + "/"でコメントパウとを活性/非活性 */
+//    println("${Solution().solution()}")
 
     //algorithmsに保存したい問題はこうやって呼び出す。
     val savedAlgorithm = HelloWorld()
