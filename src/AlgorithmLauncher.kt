@@ -1,17 +1,17 @@
 import algorithms.HelloWorld
-import template.WriteReturnTypeWhenYouNeeded
+import template.Result
+import template.def.WriteReturnTypeWhenYouNeeded
 
 /**
  * IntelliJではこれをRun
  */
 fun main() {
 //    /* 今すぐ問題に回答するためにテストするものはこれを呼び出す。
-//    "cmd" + "/"でコメントパウとを活性/非活性 */
-//    println("${Solution().solution()}")
+//    「cmd」 + 「/」でコメントパウとを活性/非活性 */
+//    Result("${Solution().solution()}")
 
     //algorithmsに保存したい問題はこうやって呼び出す。
-    val savedAlgorithm = HelloWorld()
-    println(savedAlgorithm())
+    Result(HelloWorld())
 }
 
 /**
