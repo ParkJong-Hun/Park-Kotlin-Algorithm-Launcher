@@ -4,7 +4,7 @@
 
 ## Summary
 
-![summaryImage](https://user-images.githubusercontent.com/81838716/168409575-a6143c96-8949-4976-b497-295357786b02.gif)
+![summaryImage](https://user-images.githubusercontent.com/81838716/168422889-0351ac27-0383-41bb-a7c3-539b263cd1be.gif)
 
 
 This template, for easily executing code in response to a `algorithm test` using `Kotlin`, runs in `IntelliJ`.
@@ -19,8 +19,3 @@ This template, for easily executing code in response to a `algorithm test` using
 |Name|Version|
 |---|---|
 |JDK|17.0.2|
-
-## Example
-
-- [for save a file](https://github.com/ParkJong-Hun/Kotlin-Algorithm-Collection2/commit/4cd21acbc97c820d3b27f87c8e11727a93ceb0b9)
-- [for exam](https://github.com/ParkJong-Hun/Kotlin-Algorithm-Collection2/commit/9cecb00f0b1e64cbc56e08092e33c65dad1396fa)
