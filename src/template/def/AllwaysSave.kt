@@ -14,7 +14,6 @@ object AllwaysSave {
     private val helloWorld = HelloWorld
 
     private fun foo() {
-        solution.solution()
         helloWorld()
     }
 }
