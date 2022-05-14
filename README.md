@@ -4,7 +4,8 @@
 
 ## Summary
 
-![summaryImage](https://user-images.githubusercontent.com/81838716/168422889-0351ac27-0383-41bb-a7c3-539b263cd1be.gif)
+![summaryImage](https://user-images.githubusercontent.com/81838716/168424559-396df2e6-82ad-4317-a4af-247375474dde.gif)
+
 
 
 This template, for easily executing code in response to a `algorithm test` using `Kotlin`, runs in `IntelliJ`.
