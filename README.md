@@ -20,3 +20,7 @@ This template, for easily executing code in response to a `algorithm test` using
 |Name|Version|
 |---|---|
 |JDK|17.0.2|
+
+## Description
+
+- [Project First Step(Japanese)](https://github.com/ParkJong-Hun/Park-Kotlin-Algorithm-Launcher-Template/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E5%BE%8C%E6%9C%80%E5%88%9D%E7%94%BB%E9%9D%A2%E7%B4%B9%E4%BB%8B)
